@@ -1,0 +1,80 @@
+STILL — Virtual art gallery / The open collection
+
+HISTORICAL ARTWORKS
+Nine records marked is_public_domain=true by the Art Institute of Chicago. Reproductions from Wikimedia Commons are marked Public domain. Metadata and source records checked on 2026-10-15. English and Spanish descriptions were written for this gallery and are not official museum texts.
+
+The Basket of Apples / The Basket of Apples
+Paul Cezanne · c. 1893
+Record: https://www.artic.edu/artworks/111436
+Reproduction: https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/3/38/Paul_C%C3%A9zanne_-_The_Basket_of_Apples_-_1926.252_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+Water Lilies / Water Lilies
+Claude Monet · 1906
+Record: https://www.artic.edu/artworks/16568
+Reproduction: https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/6/65/Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+A Sunday on La Grande Jatte / A Sunday on La Grande Jatte — 1884
+Georges Seurat · 1884–86, border added 1888–89
+Record: https://www.artic.edu/artworks/27992
+Reproduction: https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_Un_dimanche_apr%C3%A8s-midi_%C3%A0_l%27%C3%AEle_de_la_Grande_Jatte.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/0/03/Georges_Seurat_-_Un_dimanche_apr%C3%A8s-midi_%C3%A0_l%27%C3%AEle_de_la_Grande_Jatte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+Painting with Green Center / Painting with Green Center
+Vasily Kandinsky · 1913
+Record: https://www.artic.edu/artworks/8987
+Reproduction: https://commons.wikimedia.org/wiki/File:Vasily_Kandinsky_-_Painting_with_Green_Center_-_1931.510_-_Art_Institute_of_Chicago.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/8/82/Vasily_Kandinsky_-_Painting_with_Green_Center_-_1931.510_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+Lozenge Composition / Lozenge Composition with Yellow, Black, Blue, Red, and Gray
+Piet Mondrian · 1921
+Record: https://www.artic.edu/artworks/109819
+Reproduction: https://commons.wikimedia.org/wiki/File:Piet_Mondrian_-_Lozenge_Composition_with_Yellow,_Black,_Blue,_Red,_and_Gray_-_1957.307_-_Art_Institute_of_Chicago.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/1/14/Piet_Mondrian_-_Lozenge_Composition_with_Yellow%2C_Black%2C_Blue%2C_Red%2C_and_Gray_-_1957.307_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+The Bedroom / The Bedroom
+Vincent van Gogh · 1889
+Record: https://www.artic.edu/artworks/28560
+Reproduction: https://commons.wikimedia.org/wiki/File:Van_Gogh_-_The_Bedroom,_1889_Chicago.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/c/ce/Van_Gogh_-_The_Bedroom%2C_1889_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+The Great Wave off Kanagawa / Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series "Thirty-Six Views of Mount Fuji (Fugaku sanjūrokkei)"
+Katsushika Hokusai · 1830/33
+Record: https://www.artic.edu/artworks/24645
+Reproduction: https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/0/0d/Great_Wave_off_Kanagawa2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+Stacks of Wheat (End of Summer) / Stacks of Wheat (End of Summer)
+Claude Monet · 1890–91
+Record: https://www.artic.edu/artworks/64818
+Reproduction: https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Stacks_of_Wheat_(End_of_Summer)_-_1985.1103_-_Art_Institute_of_Chicago.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/6/68/Claude_Monet_-_Stacks_of_Wheat_%28End_of_Summer%29_-_1985.1103_-_Art_Institute_of_Chicago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+Flower Clouds / Flower Clouds
+Odilon Redon · c. 1903
+Record: https://www.artic.edu/artworks/76395
+Reproduction: https://commons.wikimedia.org/wiki/File:Odilon_Redon_-_Flower_Clouds_-_Google_Art_Project.jpg
+Original file: https://upload.wikimedia.org/wikipedia/commons/1/15/Odilon_Redon_-_Flower_Clouds_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+License reported by Commons: Public domain 
+
+STILL ORIGINALS
+Memory of the Tide; Soft Geometry; The Space Between; Continuity. AI-generated images created for this experience. The virtual architecture is AI-generated, with interactive compositions of local artwork images. They do not depict a real institution or physical exhibition.
+
+APPLICATION
+Static HTML/CSS/JavaScript by Orlando David, developed with AI assistance. No video, WebGL, remote API calls during a visit, user account or application server. The selection and language preference are stored only in the browser and may be cleared with its data.
+
+FONTS
+DM Sans, DM Mono and Instrument Serif: SIL Open Font License. License files are included in fonts/.
+
+TECHNICAL SOURCES
+https://api.artic.edu/docs/
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
